@@ -9,7 +9,7 @@
 
 		<!--<link rel="stylesheet" href="assets/css/main.css" />-->
 
-		<link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/main.css" media="screen">
+		<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/main.css" media="screen">
 		
 
 
